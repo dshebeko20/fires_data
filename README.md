@@ -29,7 +29,6 @@
 
 ```bash
 pip install plotly
-```
 
 ## 🗂️ Структура проекта
 
